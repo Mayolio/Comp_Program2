@@ -1,0 +1,3 @@
+C:/Users/MayaS/CLionProjects/C2_Program2/cmake-build-debug/CMakeFiles/C2_Program2.dir
+C:/Users/MayaS/CLionProjects/C2_Program2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/MayaS/CLionProjects/C2_Program2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
